@@ -7,7 +7,7 @@ A modular Python chatbot that combines rule-based intent detection with OpenAI-p
 - OpenAI GPT-based response generation
 - Conversation memory
 - Modular architecture
-- Resume-ready project
+
 
 ## Setup
 ```bash
